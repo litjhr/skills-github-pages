@@ -20,14 +20,14 @@ date: 2025-04-20
 </head>
 
 <body>
-    <!-- 行内公式 -->
     这是一个行内公式：\(E=mc^2\)
-
-    <!-- 块级公式 -->
     <p>这是一个块级公式：</p>
     $$
     \sum_{i=1}^{n} i = \frac{n(n + 1)}{2}
     $$
+    <p>
+    <img src="w-ug.png" style="text-align:center; max-width:80%; height:auto" >
+    </p>
 </body>
 
 </html>
