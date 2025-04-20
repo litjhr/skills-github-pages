@@ -2,7 +2,7 @@
 title: Katex and Chinese
 date: 2025-04-20
 ---
-<!DOCTYPE html>
+
 <html>
 
 <head>
