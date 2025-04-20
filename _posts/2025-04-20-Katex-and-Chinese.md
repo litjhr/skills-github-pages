@@ -26,7 +26,7 @@ date: 2025-04-20
     \sum_{i=1}^{n} i = \frac{n(n + 1)}{2}
     $$
     <p style="text-align:center;">
-    <img href="https://github.com/litjhr/skills-github-pages/blob/main/w-ug.png" alt="image T_T" style=" max-width:80%; height:auto;" >
+    <img src="/w-ug.png" alt="image T_T" style=" max-width:80%; height:auto;" >
     </p>
 </body>
 
