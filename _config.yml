@@ -1,3 +1,11 @@
 theme: minima
 author: litjhr
 title: Self-Test
+email: jhr32272@outlook.com
+navigation:
+  - title: "首页"
+    url: "/"
+  - title: "文章"
+    url: "/posts/"
+  - title: "litjhr"
+    url: "/me/"
