@@ -5,7 +5,5 @@ email: jhr32272@outlook.com
 navigation:
   - title: "首页"
     url: "/skills-github-pages/"
-  - title: "文章"
-    url: "/skills-github-pages/posts/"
   - title: "litjhr"
-    url: "/skills-github-pages/intro/"
+    url: "/skills-github-pages/intro"
