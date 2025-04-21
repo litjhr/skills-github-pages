@@ -8,4 +8,4 @@ navigation:
   - title: "文章"
     url: "/posts/"
   - title: "litjhr"
-    url: "/me/"
+    url: "/intro/"
