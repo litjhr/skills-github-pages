@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog!
+subtitle: blogs!
 ---
 
-$1+1=2$
