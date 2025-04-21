@@ -1,3 +1,8 @@
+---
+layout: page
+title: intro
+---
+
 <h2 style="color:lightblue;"> Welcome!! </h2> 
 <hr/>
 
