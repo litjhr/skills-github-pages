@@ -3,4 +3,4 @@ title: Welcome to my blog!
 ---
 
 
-{% include navigation.html %}
+<!--{% include navigation.html %}-->
